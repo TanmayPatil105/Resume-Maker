@@ -1,0 +1,25 @@
+body {
+    background-color:#ffffff;
+}
+
+#cv-form {
+    display:block;
+}
+
+#cv-template {
+    display: none;
+}
+.myimage{
+    border-radius: 200px;
+    width : 200px;
+}
+
+.border {
+    border: 2px solid black;
+  }
+
+hr { 
+    color: black;
+    display: block;
+    border-width: 1px;
+}

@@ -1,2 +1,2 @@
 # resume-maker.github.io
-IT HELPS TO CREATE YOUR RESUME BY JUST GIVING PROPER INPUTS
+Create your very own professional CV and download it within secons.
